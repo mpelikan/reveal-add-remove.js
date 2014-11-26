@@ -1,0 +1,32 @@
+{
+	"name": "reveal-add-remove.js",
+	"author": {
+		"name": "Michael Pelikan",
+		"email": "michael@pelikan.org"
+	},
+	"contributors": [
+		{
+			"name": "Michael Pelikan",
+			"email": "michael@pelikan.org"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "LICENSE"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.org/mpelikan/reveal-add-remove.js"
+	},
+	"bugs": {
+		"url": "https://github.org/mpelikan/reveal-add-remove.js/issues"
+	},
+	"dependencies": {
+		"reveal.js": "~2.6"
+	},
+	"devDependencies": {
+		"qunit": "~1"
+	}
+}
