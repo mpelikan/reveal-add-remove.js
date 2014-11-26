@@ -1,6 +1,12 @@
 /* jshint browser:true */
 /* global Reveal, QUnit, test, strictEqual, ok, equal, deepEqual, notEqual, asyncTest, expect, start */
 
+//
+//	These tests are from reveal.js itself.
+//
+//	TODO: Create test for reveal-add-remove.js
+//
+
 // These tests expect the DOM to contain a presentation
 // with the following slide structure:
 //
